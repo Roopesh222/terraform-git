@@ -1,7 +1,7 @@
 variable "app_name" {
   type        = string
   description = "name of the app"
-  default     = "firstcontainerapp002"
+  default     = "firstcontainerapp"
 }
 
 variable "location" {
